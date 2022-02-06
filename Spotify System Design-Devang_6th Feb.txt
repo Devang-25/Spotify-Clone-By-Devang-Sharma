@@ -1,0 +1,117 @@
+Date : 6th February 2022
+Mentor: DEVANG SHARMA
+Batch: NEWTON SCHOOL
+Agenda : Spotify  - Product Overview, Clone, and Hosting
+
+-> Introduction- DONE
+-> Scope and Definition- DONE
+-> Spotify as a Product- DONE
+-> Live Demo of Clone- Web Version- DONE
+-> Requirement clarification - DONE
+ 	- Functional
+ 	- Non Functional
+ 	- Out of Scope
+
+-> Intro to React Js
+-> Environment Setup- VS Code- DONE
+-> Github Account - DONE
+-> Create Repo: spotify clone by __: DONE
+-> Heroku Account: DONE
+
+
+
+-> First React App
+
+- Install Node and Npm (Node Package Manager) in your System - DONE
+(https://nodejs.org/en/download/)
+Check With: node -v and npm -v
+
+- Diff between npm create and npx create
+(npm install -g create-react-app)
+(npx create-react-app spotify-clone-by-devang)
+
+-> Accounts Required : Github, Spotify and Heroku- DONE
+(Spotify Developer - https://developer.spotify.com/dashboard/)
+
+Redirect URI- http://localhost:3000/ - DONE
+
+-> Coding, Coding and Coding: MOST Imp and Fun: 1 Hr 15 Mins- DONE
+
+-> Push to Github: 5 Mins- DONE
+-> Hosting on Heroku (Deployment on Prod): 10 Mins- DONE
+
+-> npm install and npm start commands (Local and Prod Builds)- DONE
+
+"Please Type 'Hi' in the Chat Box if you have joined and Can See this Screen".
+"We Will Start immediately After Every one has joined the session"
+
+
+
+
+
+-> Spotify as a Product
+
+(1) Music Streaming App
+(2) Download Option- Listen Offline
+(3) Playlist -> Segregate Songs on Playlists
+(4) Podcasts
+(5) Liked Songs/Podcasts
+(6) Search - Name, Artist, Podcast, category
+(7) Recommendation System
+(8) Subscription Model - Payment Options
+(9) Group Listening- Good
+(10) Music in Loop/Autoplay
+(11) Ringtone - Days/Payment
+(12) Follow
+(13) Write Operation -> Upload Content
+Read Heavy Application
+(14) History(Used for Recommendation System) and rating
+
+
+LIVE DEMO of Clone We Will Build:
+
+CODING: 
+
+
+- Create Login Page
+
+Todo:
+(1) Click Login Button- DONE
+(2) Redirect to Spotify- DONE
+(3) Redirect to Home Page Once Authorised- DONE
+
+Flipkart -> Pay -> Paytm -> Payment -> Flipkart
+
+
+Github Push
+- DO NOT PUSH Node-Modules
+
+Two Methods: 
+(1) Github Desktop 
+
+
+(2) Git Command
+
+git status
+git add . (Don't Use Node Modules)
+git commit -m "Added Spotify"
+git push
+
+
+
+Host on Heroku
+(1) Create Profile On Heroku
+(2) Create Repo
+(3) Create Heroku App
+(4) Select Region - US ot Europe
+(5) Select Github Repo
+(6) Deploy on Heroku
+
+
+Ending:
+
+(1) Post About in Linkedin
+(2) Github Link and recording
+(3) Certificate
+(4) Newton School
+
