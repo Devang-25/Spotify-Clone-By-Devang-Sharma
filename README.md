@@ -1,64 +1,67 @@
 # Author:
-DEVANG SHARMA
-Linktree: https://linktr.ee/idevangsharma
+🏆 DEVANG SHARMA 🚀 </br>
+🏆 Linktree: https://linktr.ee/idevangsharma
 
 # About: 
-This Project was Made in Masterclass by Devang Sharma in Collaboration with Newton School.
+This Project was Made in Masterclass by Devang Sharma in Collaboration with Newton School.</br>
 
 # Summary:
 
-Date : 6th February 2022
-Mentor: DEVANG SHARMA
-Batch: NEWTON SCHOOL
-Agenda : Spotify  - Product Overview, Clone, and Hosting
+Date : 6th February 2022 </br>
+Mentor: DEVANG SHARMA </br>
+Batch: NEWTON SCHOOL </br>
+Agenda : Spotify  - Product Overview, Clone, and Hosting</br>
+</br>
 
--> Introduction- DONE
--> Scope and Definition- DONE
--> Spotify as a Product- DONE
--> Live Demo of Clone- Web Version- DONE
--> Requirement clarification - DONE
- 	- Functional
- 	- Non Functional
- 	- Out of Scope
+✅ Introduction- DONE </br>
+✅ Scope and Definition- DONE </br>
+✅ Spotify as a Product- DONE </br>
+✅ Live Demo of Clone- Web Version- DONE </br>
+✅ Requirement clarification - DONE </br>
+- Functional </br>
+- Non Functional </br>
+- Out of Scope </br>
 
--> Intro to React Js
--> Environment Setup- VS Code- DONE
--> Github Account - DONE
--> Create Repo: spotify clone by __: DONE
--> Heroku Account: DONE
-
-
-
--> First React App
-
-- Install Node and Npm (Node Package Manager) in your System - DONE
-(https://nodejs.org/en/download/)
-Check With: node -v and npm -v
-
-- Diff between npm create and npx create
-(npm install -g create-react-app)
-(npx create-react-app spotify-clone-by-devang)
-
--> Accounts Required : Github, Spotify and Heroku- DONE
-(Spotify Developer - https://developer.spotify.com/dashboard/)
-
-Redirect URI- http://localhost:3000/ - DONE
-
--> Coding, Coding and Coding: MOST Imp and Fun: 1 Hr 15 Mins- DONE
-
--> Push to Github: 5 Mins- DONE
--> Hosting on Heroku (Deployment on Prod): 10 Mins- DONE
-
--> npm install and npm start commands (Local and Prod Builds)- DONE
+✅ Intro to React Js </br>
+✅ Environment Setup- VS Code- DONE </br>
+✅ Github Account - DONE </br>
+✅ Create Repo: spotify clone by __: DONE </br>
+✅ Heroku Account: DONE </br>
 
 "Please Type 'Hi' in the Chat Box if you have joined and Can See this Screen".
 "We Will Start immediately After Every one has joined the session"
 
 
 
+</br>
+
+### 🚀 First React App
+
+- Install Node and Npm (Node Package Manager) in your System - DONE </br>
+(https://nodejs.org/en/download/) </br>
+Check With: node -v and npm -v </br>
+
+- Diff between npm create and npx create</br>
+(npm install -g create-react-app)</br>
+(npx create-react-app spotify-clone-by-devang)</br>
+
+### 🚀 Accounts Required : Github, Spotify and Heroku- DONE</br>
+(Spotify Developer - https://developer.spotify.com/dashboard/)</br>
+
+Redirect URI- http://localhost:3000/ - DONE</br>
+
+### 🚀 Coding, Coding and Coding: MOST Imp and Fun: 1 Hr 15 Mins- DONE</br>
+
+### 🚀 Push to Github: 5 Mins- DONE</br>
+### 🚀 Hosting on Heroku (Deployment on Prod): 10 Mins- DONE</br>
+
+### 🚀 npm install and npm start commands (Local and Prod Builds)- DONE</br>
 
 
--> Spotify as a Product
+
+
+
+### 🚀 Spotify as a Product </br>
 
 (1) Music Streaming App
 (2) Download Option- Listen Offline
@@ -77,54 +80,53 @@ Read Heavy Application
 (14) History(Used for Recommendation System) and rating
 
 
-LIVE DEMO of Clone We Will Build:
+### 🚀 LIVE DEMO of Clone We Will Build: </br>
 
-CODING: 
-
-
-- Create Login Page
-
-Todo:
-(1) Click Login Button- DONE
-(2) Redirect to Spotify- DONE
-(3) Redirect to Home Page Once Authorised- DONE
-
-Flipkart -> Pay -> Paytm -> Payment -> Flipkart
+### 🚀 CODING: </br>
 
 
-Github Push
-- DO NOT PUSH Node-Modules
+- Create Login Page </br>
 
-Two Methods: 
-(1) Github Desktop 
+(1) Click Login Button- DONE </br>
+(2) Redirect to Spotify- DONE </br>
+(3) Redirect to Home Page Once Authorised- DONE </br>
 
-
-(2) Git Command
-
-git status
-git add . (Don't Use Node Modules)
-git commit -m "Added Spotify"
-git push
+EDA Workflow Demo</br>
+Flipkart -> Pay -> Paytm -> Payment -> Flipkart </br>
 
 
-Host on Heroku
-(1) Create Profile On Heroku
-(2) Create Repo
-(3) Create Heroku App
-(4) Select Region - US ot Europe
-(5) Select Github Repo
-(6) Deploy on Heroku
+### 🚀 Github Push</br>
+- DO NOT PUSH Node-Modules</br>
 
+Two Methods: </br>
+(1) Github Desktop </br>
 
+(2) Git Command</br>
+
+git status</br>
+git add . (Don't Use Node Modules)</br>
+git commit -m "Added Spotify"</br>
+git push</br>
+</br>
+
+### 🚀 Host on Heroku</br>
+(1) Create Profile On Heroku</br>
+(2) Create Repo</br>
+(3) Create Heroku App</br>
+(4) Select Region - US ot Europe</br>
+(5) Select Github Repo</br>
+(6) Deploy on Heroku</br>
+
+</br>
 Build Will be Successful and Spotify Clone would be published to a LIVE Website.
 
-Ending:
+### 🚀 Ending:</br>
 
-(1) Post About in Linkedin
-(2) Github Link and recording
-(3) Certificate
-(4) Newton School
-
+(1) Post About in Linkedin</br>
+(2) Github Link and recording</br>
+(3) Certificate</br>
+(4) Newton School</br>
+</br>
 
 # Steps:
 
@@ -213,11 +215,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-### Credits
+### Credits ⭐️
 
-All Credits Owned and reserved by DEVANG SHARMA, and in Collaboration with Newton School.
+⭐️ All Credits Owned and reserved by DEVANG SHARMA, and in Collaboration with Newton School.
 Must Seek Author Approval before use.
 
-With Love,
-Devang Sharma
+⭐️ From [DEVANG SHARMA](https://github.com/Devang-25)
 
+## Thankyou for Visting My Profile :) 
+## With Love,
+## Devang 
