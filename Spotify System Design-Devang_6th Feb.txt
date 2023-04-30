@@ -83,6 +83,28 @@ Todo:
 Flipkart -> Pay -> Paytm -> Payment -> Flipkart
 
 
+Steps:
+(1) Create a App on Developer Spotify and Save the Client ID.
+https://developer.spotify.com/dashboard
+
+Client ID:
+
+
+(2) Install nvm and switch to specific version of node
+https://github.com/nvm-sh/nvm#installing-and-updating
+
+
+(3) Use a specific version of node
+nvm install v16.15.1
+nvm use 16.13.0
+
+
+
+
+
+
+
+
 Github Push
 - DO NOT PUSH Node-Modules
 
